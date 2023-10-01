@@ -24,7 +24,7 @@ button {
 }
 
 /* ------ TASK 3 ------ */
-/* Usunięcie kropek przy elementach listy */
+
 ul.gallery {
   list-style: none;
   padding: 0;
@@ -33,13 +33,11 @@ ul.gallery {
   align-items: center;
 }
 
-/* Stylowanie elementów <li> w galerii */
 ul.gallery li {
   display: inline-block;
   margin-top: 30px;
 }
 
-/* Stylowanie obrazków */
 ul.gallery img {
   width: 550px; /* Dostosuj szerokość obrazków do swoich preferencji */
   height: 350px; /* Zachowaj proporcje obrazków */
