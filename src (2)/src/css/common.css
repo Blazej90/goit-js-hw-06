@@ -23,6 +23,7 @@ button {
   cursor: pointer;
 }
 
+/* ------ TASK 3 ------ */
 /* Usunięcie kropek przy elementach listy */
 ul.gallery {
   list-style: none;
@@ -43,3 +44,5 @@ ul.gallery img {
   width: 550px; /* Dostosuj szerokość obrazków do swoich preferencji */
   height: 350px; /* Zachowaj proporcje obrazków */
 }
+
+/* ------------ */
