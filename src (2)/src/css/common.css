@@ -39,8 +39,8 @@ ul.gallery li {
 }
 
 ul.gallery img {
-  width: 550px; /* Dostosuj szerokość obrazków do swoich preferencji */
-  height: 350px; /* Zachowaj proporcje obrazków */
+  width: 550px;
+  height: 350px;
 }
 
 /* ------------ */
