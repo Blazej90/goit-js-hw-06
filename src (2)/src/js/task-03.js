@@ -12,10 +12,9 @@ const images = [
     alt: "Group of Horses Running",
   },
 ];
-// Znajdź listę ul.gallery na stronie.
+
 const galleryList = document.querySelector(".gallery");
 
-// Przejdź przez tablicę images i dodaj elementy do listy galerii.
 images.forEach((image) => {
   const imageElement = `<img src="${image.url}" alt="${image.alt}">`;
   galleryList.insertAdjacentHTML("beforeend", `<li>${imageElement}</li>`);
